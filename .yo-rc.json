@@ -1,0 +1,45 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "in.rs"
+        },
+        "jhipsterVersion": "5.7.2",
+        "applicationType": "monolith",
+        "baseName": "RecipeShop",
+        "packageName": "in.rs",
+        "packageFolder": "in/rs",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "no",
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Disk",
+        "prodDatabaseType": "postgresql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "N2U0MzBjMTk4ZmJiODg1ZTUzMjk5YjQ3YmQ4ZWJiMTUxYWE3ZDYwZmRkYzYzMThjNzExMTQ2Nzg4YjViNmFmYWE0ZTE5MDNlMGM2N2Y2MmI1ZjJkZTAxZjVkZjEwZjhjMzVkYzQwOGY1MmZmNWJmNTc5ZmFkMTliNGU0NjRlZDA=",
+        "clientFramework": "angularX",
+        "useSass": true,
+        "clientPackageManager": "yarn",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "otherModules": [
+            {
+                "name": "generator-jhipster-nav-element",
+                "version": "2.1.0"
+            },
+            {
+                "name": "generator-jhipster-primeng-charts",
+                "version": "1.2.0"
+            },
+            {
+                "name": "generator-jhipster-primeng",
+                "version": "2.1.0"
+            }
+        ],
+        "enableTranslation": false
+    }
+}
